@@ -8,9 +8,10 @@
 NFC-verified venue rooms · daily AOA Match · no swipes, no chats.
 
 [![Website](https://img.shields.io/badge/Website-aoa.com.ua-0171EA?style=flat-square)](https://aoa.com.ua)
-[![For Business](https://img.shields.io/badge/For_Business-Partner_with_AOA-059669?style=flat-square)](https://aoa.com.ua/for-business)
+[![Marketing](https://img.shields.io/badge/Marketing-aoa.com.ua-0171EA?style=flat-square)](https://aoa.com.ua/landing)
 [![Help Center](https://img.shields.io/badge/Help-Documentation-6b7280?style=flat-square)](https://aoa.com.ua/help)
 [![Blog](https://img.shields.io/badge/Blog-Read_more-8433fc?style=flat-square)](https://aoa.com.ua/blog)
+[![Pricing](https://img.shields.io/badge/Pricing-Plans-059669?style=flat-square)](https://aoa.com.ua/pricing)
 
 [![Instagram](https://img.shields.io/badge/Instagram-@aoa.com.ua-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/aoa.com.ua/)
 [![Threads](https://img.shields.io/badge/Threads-@aoa.com.ua-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/@aoa.com.ua)
@@ -37,6 +38,40 @@ Three actions. One moment.
 
 No public profiles. No in-app chat. Visibility is bounded by your physical presence at a specific venue or event.
 
+---
+
+## Find your path
+
+AOA serves four audiences with dedicated landing pages:
+
+### 👤 [For users → aoa.com.ua/landing](https://aoa.com.ua/landing)
+
+Discover venues and events on the map. Walk in, see who's around, send a honk. Free for everyone. Optional **AOA Plus** subscription adds **AOA Match** — a daily curated meeting suggestion (1-on-1 or table of 4) at a partner venue nearby.
+
+### 🏢 [For venues → aoa.com.ua/for-business](https://aoa.com.ua/for-business)
+
+Bring new guests in and turn them into regulars. Four operating modes on a single infrastructure:
+
+- 🏠 **Live room** — spontaneous NFC entry to your room
+- ✨ **AOA Match** — curated meetings during your quiet hours, with optional venue bonus to drive orders
+- 🎟️ **Event** — guest room active during the event and 30 minutes after
+- 🔁 **Club** — recurring meetings (run clubs, book clubs)
+
+Plus: NFC stickers (ordered separately at cost), CRM, attendance analytics, table reservations, loyalty program, Birthday Campaign, AOA Bento.
+
+### 🎤 [For event organizers → aoa.com.ua/for-organizers](https://aoa.com.ua/for-organizers)
+
+Full event toolkit in one place: event builder, flexible ticketing with QR check-in, dynamic pricing, participant CRM, Telegram bot automation. Specialized formats:
+
+- **Speed Dating** — auto-pair matching, timed rounds
+- **The Human Library** (*Жива бібліотека*) — participants as "books" share personal stories with "readers"
+
+### 🚪 [For space owners → aoa.com.ua/for-tenants](https://aoa.com.ua/for-tenants)
+
+List your hall, loft, or coworking space **for free**: page in the catalog, online booking with calendar, CRM for inquiries, attendance analytics, unlimited rooms, Telegram integration. No subscriptions, no hidden fees.
+
+---
+
 ## AOA Plus & AOA Match
 
 A subscription tier that adds:
@@ -45,29 +80,7 @@ A subscription tier that adds:
 - **AOA Match** — one daily curated meeting suggestion: **1-on-1** or a **table of four**, in a partner venue nearby.
 - **Quiet-hour bonuses** at partner venues — discount on a second drink, a dessert with the main, a drink upgrade, or a fixed-price set for two.
 
-## For venues
-
-Four operating modes on a single infrastructure:
-
-| Mode | What it does |
-|---|---|
-| 🏠 **Live room** | Spontaneous NFC entry to your venue's room |
-| ✨ **AOA Match** | Curated meetings during your quiet hours |
-| 🎟️ **Event** | Guest room active during the event and 30 minutes after |
-| 🔁 **Club** | Recurring meetings (run clubs, book clubs) — 400+ repeat visits per year |
-
-Plus: NFC stickers (ordered separately at cost), CRM, attendance analytics, table reservations, loyalty program, Birthday Campaign, AOA Bento.
-
-[Learn more →](https://aoa.com.ua/for-business)
-
-## For event organizers
-
-Event builder with flexible ticketing, QR check-in, dynamic pricing, participant CRM, and Telegram bot automation. Specialized formats:
-
-- **Speed Dating** — auto-pair matching, timed rounds.
-- **The Human Library** (*Жива бібліотека*) — participants as "books" share personal stories with "readers".
-
-[Pricing →](https://aoa.com.ua/pricing)
+[See pricing →](https://aoa.com.ua/pricing/users)
 
 ## Privacy & security
 
@@ -80,7 +93,6 @@ Frontend     Next.js 16 · React 19 · TypeScript · SCSS Modules
 Backend      Server Actions · PostgreSQL (Prisma 7) · Redis · WebSocket
 Auth         NextAuth · Google · Apple · Passkeys (WebAuthn)
 Maps         Mapbox GL JS 3.20
-NFC          NTAG424 DNA · CMAC cryptographic verification
 Payments     Monobank · Telegram Stars
 Delivery     Nova Poshta
 Bots         Telegraf
@@ -95,6 +107,8 @@ Bots         Telegraf
 [![Instagram](https://img.shields.io/badge/Instagram-@undef.zakhar-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/undef.zakhar)
 [![Wikidata](https://img.shields.io/badge/Wikidata-Q139560462-006699?style=flat-square&logo=wikidata&logoColor=white)](https://www.wikidata.org/wiki/Q139560462)
 
+[Read the full story →](https://aoa.com.ua/story)
+
 ## For media & partnerships
 
 Press kit, brand assets, and quotes available on request.
@@ -103,18 +117,22 @@ Press kit, brand assets, and quotes available on request.
 📧 **Support**: support@aoa.com.ua
 💬 **Telegram support bot**: [@aoa_support_bot](https://t.me/aoa_support_bot)
 
-## Resources
+## All resources
 
-- 🌍 [Website](https://aoa.com.ua) — main site
-- 📍 [Locations map](https://aoa.com.ua/locations) — partner venues
-- 🎟️ [Events](https://aoa.com.ua/events) — upcoming events
-- 🏢 [For business](https://aoa.com.ua/for-business) — venues
-- 🎤 [For organizers](https://aoa.com.ua/for-organizers) — event organizers
-- 🚪 [For tenants](https://aoa.com.ua/for-tenants) — event spaces
-- 📖 [Help center](https://aoa.com.ua/help) — documentation
-- ✍️ [Blog](https://aoa.com.ua/blog) — articles & insights
-- 📊 [ROI calculator](https://aoa.com.ua/roi) — for venues
-- 🔗 [Wikidata](https://www.wikidata.org/wiki/Q139560460) — entity record
+| Audience landing pages | Product |
+|---|---|
+| 👤 [Users](https://aoa.com.ua/landing) | 🌍 [Website](https://aoa.com.ua) |
+| 🏢 [Venues](https://aoa.com.ua/for-business) | 📍 [Locations map](https://aoa.com.ua/locations) |
+| 🎤 [Event organizers](https://aoa.com.ua/for-organizers) | 🎟️ [Events](https://aoa.com.ua/events) |
+| 🚪 [Space owners](https://aoa.com.ua/for-tenants) | 🏛️ [Spaces](https://aoa.com.ua/spaces) |
+
+| Information | Tools & references |
+|---|---|
+| 📖 [Help center](https://aoa.com.ua/help) | 📊 [ROI calculator (for venues)](https://aoa.com.ua/roi) |
+| ✍️ [Blog](https://aoa.com.ua/blog) | 💸 [Pricing](https://aoa.com.ua/pricing) |
+| 🎯 [Our story](https://aoa.com.ua/story) | 🔗 [Wikidata · AOA](https://www.wikidata.org/wiki/Q139560460) |
+| 🛡️ [Privacy policy](https://aoa.com.ua/privacy-policy) | 🔗 [Wikidata · Founder](https://www.wikidata.org/wiki/Q139560462) |
+| 📜 [Terms](https://aoa.com.ua/terms) | 🤖 [llms.txt](https://aoa.com.ua/llms.txt) |
 
 ---
 
