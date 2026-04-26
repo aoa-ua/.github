@@ -84,7 +84,7 @@ A subscription tier that adds:
 
 ## Privacy & security
 
-Privacy by default. No public profiles, no search-engine-indexed user pages. Authentication via Google, Apple, or Passkeys (WebAuthn). NFC NTAG424 DNA tags with cryptographic CMAC signatures prevent remote spoofing — only physically present guests can join a venue's room.
+Privacy by default. No public profiles, no search-engine-indexed user pages. Authentication via Google, Apple, or Passkeys (WebAuthn). Cryptographically signed NFC tags prevent remote spoofing — only physically present guests can join a venue's room.
 
 ## Tech stack
 
@@ -93,6 +93,7 @@ Frontend     Next.js 16 · React 19 · TypeScript · SCSS Modules
 Backend      Server Actions · PostgreSQL (Prisma 7) · Redis · WebSocket
 Auth         NextAuth · Google · Apple · Passkeys (WebAuthn)
 Maps         Mapbox GL JS 3.20
+NFC          Cryptographically signed tags · anti-replay verification
 Payments     Monobank · Telegram Stars
 Delivery     Nova Poshta
 Bots         Telegraf
